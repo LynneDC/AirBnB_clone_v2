@@ -38,11 +38,7 @@
    <li><a href="/rltoken/2y_hunzGCCvSot06EW67UQ" title="Jinja" target="_blank">Jinja</a> </li>
    </ul>
   </p>
-   <iframe width="640" height="360" 
-    src="https://www.youtube.com/embed/goToXTC96Co" 
-    title="Python Flask Tutorial:  Deploying Your Application (Option #1) - Deploy to a Linux Server"
-    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
+ 
    <h2 style="color: green; round-color:RED ">
         General Knowledge Test 
    </h2>
@@ -97,6 +93,166 @@
 <h3>Install Flask</h3>
 
 <pre><code>$ pip3 install Flask
+
+h2 class="gap">Tasks</h2>
+
+    <div data-role="task1617" data-position="1" id="task-num-0">
+      <div class="panel panel-default task-card " id="task-1617">
+  <span id="user_id" data-id="251885"></span>
+
+  <div class="panel-heading panel-heading-actions">
+    <h3 class="panel-title">
+      0. Hello Flask!
+    </h3>
+
+    <div>
+        <span class="label label-info">
+          mandatory
+        </span>
+    </div>
+  </div>
+
+  <div class="panel-body">
+    <span id="user_id" data-id="251885"></span>
+
+    <!-- Progress vs Score -->
+
+    <!-- Task Body -->
+    <p>Write a script that starts a Flask web application:</p>
+
+<ul>
+<li>Your web application must be listening on <code>0.0.0.0</code>, port <code>5000</code></li>
+<li>Routes:
+
+<ul>
+<li><code>/</code>: display &ldquo;Hello HBNB!&rdquo;</li>
+</ul></li>
+<li>You must use the option <code>strict_slashes=False</code> in your route definition</li>
+</ul>
+
+<pre><code>guillaume@ubuntu:~/AirBnB_v2$ python3 -m web_flask.0-hello_route
+* Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+....
+</code></pre>
+
+<p>In another tab:</p>
+
+<pre><code>guillaume@ubuntu:~$ curl 0.0.0.0:5000 ; echo &quot;&quot; | cat -e
+Hello HBNB!$
+guillaume@ubuntu:~$ 
+</code></pre>
+
+  </div>
+
+  <div class="list-group">
+    <!-- Task URLs -->
+
+    <!-- Github information -->
+      <div class="list-group-item">
+        <p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>AirBnB_clone_v2</code></li>
+            <li>Directory: <code>web_flask</code></li>
+            <li>File: <code>0-hello_route.py, __init__.py</code></li>
+        </ul>
+      </div>
+
+    <!-- Self-paced manual review -->
+  </div>
+
+  <!-- Panel footer - Controls -->
+  <div class="panel-footer">
+      <div class="align-items-center d-flex justify-content-between">
+        
+<div>
+    <button class="student_task_done btn btn-default btn-sm no" data-task-id="1617">
+      <span class="no"><i aria-hidden="true" class="fa-regular fa-square "></i></span>
+      <span class="yes"><i aria-hidden="true" class="fa-regular fa-square-check "></i></span>
+      <span class="pending"><i aria-hidden="true" class="fa-solid fa-spinner  fa-spin-pulse"></i></span>
+      Done<span class="no pending">?</span><span class="yes">!</span>
+    </button>
+
+  <button class="student-task-done-by btn btn-default btn-sm" data-task-id="1617" data-batch-id="78" data-toggle="modal" data-target="#task-1617-users-done-modal">
+    Help
+  </button>
+  <div class="modal fade users-done-modal" id="task-1617-users-done-modal" data-task-id="1617" data-batch-id="78">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title">Learners who are done with "0. Hello Flask!"</h4>
+        </div>
+        <div class="modal-body">
+            <div class="list-group">
+            </div>
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+            <div class="error"></div>
+        </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+    <button class="btn btn-default btn-sm" data-toggle="modal" data-target="#container-specs-modal" data-gtm-custom-event-name="task_sandbox_modal" data-gtm-custom-event-options="{&quot;taskId&quot;:1617}"><i aria-hidden="true" class="fa-solid fa-terminal "></i><span>Get a sandbox</span></button>
+
+</div>
+
+
+        <div class="fs-4">
+        </div>
+      </div>
+
+
+  </div>
+</div>
+
+    </div>
+    <div data-role="task1618" data-position="2" id="task-num-1">
+      <div class="panel panel-default task-card " id="task-1618">
+  <span id="user_id" data-id="251885"></span>
+
+  <div class="panel-heading panel-heading-actions">
+    <h3 class="panel-title">
+      1. HBNB
+    </h3>
+
+    <div>
+        <span class="label label-info">
+          mandatory
+        </span>
+    </div>
+  </div>
+
+  <div class="panel-body">
+    <span id="user_id" data-id="251885"></span>
+
+    <!-- Progress vs Score -->
+
+    <!-- Task Body -->
+    <p>Write a script that starts a Flask web application:</p>
+
+<ul>
+<li>Your web application must be listening on <code>0.0.0.0</code>, port <code>5000</code></li>
+<li>Routes:
+
+<ul>
+<li><code>/</code>: display &ldquo;Hello HBNB!&rdquo;</li>
+<li><code>/hbnb</code>: display &ldquo;HBNB&rdquo;</li>
+</ul></li>
+<li>You must use the option <code>strict_slashes=False</code> in your route definition</li>
+</ul>
+
+<pre><code>guillaume@ubuntu:~/AirBnB_v2$ python3 -m web_flask.1-hbnb_route
+* Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+....
+</code></pre>
+
 </code></pre>  
  <li></li>
   <li></li>
