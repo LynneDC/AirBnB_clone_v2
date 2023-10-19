@@ -92,9 +92,9 @@
 
 <h3>Install Flask</h3>
 
-<pre><code>$ pip3 install Flask
+<p><em>$ pip3 install Flask</em></p>
 
-<h2 class="gap">Tasks</h2>
+<h2>Tasks</h2>
 <h3 class="panel-title">
  0. Hello Flask!
 </h3>
