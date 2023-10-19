@@ -204,10 +204,6 @@
   <h3 class="panel-title">
       4. Is it a number?
   </h3>
-
-  <div class="panel-body">
-   <!-- Progress vs Score -->
-
    <!-- Task Body -->
    <p>Write a script that starts a Flask web application:</p>
 
