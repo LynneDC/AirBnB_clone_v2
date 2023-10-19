@@ -205,12 +205,6 @@
       4. Is it a number?
   </h3>
 
-   <div>
-   <span class="label label-info">
-   </span>
-   </div>
-  </div>
-
   <div class="panel-body">
    <!-- Progress vs Score -->
 
