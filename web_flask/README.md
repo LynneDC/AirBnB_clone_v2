@@ -9,9 +9,9 @@
    <h2> BACKGROUD </h2>
    <img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step3.png" alt="Server-Side Back-end " />
    <img src="https://github.com/bdbaraban/AirBnB_clone_v2/blob/master/assets/hbnb_screenshot_0.png" alt="image"  />
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/1549b553d726cc37f64440be910cb6b858aa32ae.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T085559Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=809ed7726c4cc593528df6ea90938d3de03a0aea303047499fbe57dd9135b020" alt="" loading='lazy' style="" />
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/94b3a416ba1551c59701eb6672ac0a36fbebba14.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T085559Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=484210644e55f23daf52773bd70e1fa54bd18c631fe80415eb61d826d31327d4" alt="" loading='lazy' style="" />
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/1e559707dd34a37564dc10e54b707815a516d363.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T085559Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4d2389e10fde6395578cb1e7600bfd78a00aab2ee76cb7c457a7b73feef54dbe" alt="" loading='lazy' style="" /></p>
+   <img src="https://github.com/bdbaraban/AirBnB_clone_v2/blob/master/assets/hbnb_screenshot_1.png" alt="image" />
+   <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/94b3a416ba1551c59701eb6672ac0a36fbebba14.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T085559Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=484210644e55f23daf52773bd70e1fa54bd18c631fe80415eb61d826d31327d4" alt="" loading='lazy' style="" />
+   <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/1e559707dd34a37564dc10e54b707815a516d363.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T085559Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4d2389e10fde6395578cb1e7600bfd78a00aab2ee76cb7c457a7b73feef54dbe" alt="lazy" />
 
    <h2> DESCRIPTION </h2>
    <p>
