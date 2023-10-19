@@ -8,6 +8,11 @@
 <body style="font-family: Verdana, Arial, sans-serif">
    <h2> BACKGROUD </h2>
    <img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step3.png" alt="Server-Side Back-end " />
+  <p><img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/4f993ec8ca2a2f639a80887667106ac63a0a3701.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T085559Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=88245362432118f074fa168f135944b1bd4ecc27f4b4fdc9d27550584cb8d594" alt="" loading='lazy' style="" />
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/1549b553d726cc37f64440be910cb6b858aa32ae.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T085559Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=809ed7726c4cc593528df6ea90938d3de03a0aea303047499fbe57dd9135b020" alt="" loading='lazy' style="" />
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/94b3a416ba1551c59701eb6672ac0a36fbebba14.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T085559Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=484210644e55f23daf52773bd70e1fa54bd18c631fe80415eb61d826d31327d4" alt="" loading='lazy' style="" />
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/1e559707dd34a37564dc10e54b707815a516d363.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T085559Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4d2389e10fde6395578cb1e7600bfd78a00aab2ee76cb7c457a7b73feef54dbe" alt="" loading='lazy' style="" /></p>
+
    <h2> DESCRIPTION </h2>
    <p>
    <ol>
@@ -242,7 +247,7 @@
 <p>Update <code>DBStorage</code>: (<code>models/engine/db_storage.py</code>)</p>
 
 <ul>
-<li>Add a public method <code>def close(self):</code>: call <code>remove()</code> method on the private session attribute (<code>self.__session</code>) <a href="/rltoken/_lTxhB5UgQ4nFRoS9ooI5g" title="tips" target="_blank">tips</a> or <code>close()</code> on the class <code>Session</code> <a href="/rltoken/xlPf9pDUFMb599rkoDElvg" title="tips" target="_blank">tips</a></li>
+<li> dd a public method <code>def close(self):</code>: call <code>remove()</code> method on the private session attribute (<code>self.__session</code>) <a href="/rltoken/_lTxhB5UgQ4nFRoS9ooI5g" title="tips" target="_blank">tips</a> or <code>close()</code> on the class <code>Session</code> <a href="/rltoken/xlPf9pDUFMb599rkoDElvg" title="tips" target="_blank">tips</a></li>
 </ul>
 
 <p>Update <code>State</code>: (<code>models/state.py</code>) - If it&rsquo;s not already present</p>
@@ -455,12 +460,4 @@
 </ul>
 
 <p>In the browser:</p>
-
-
-<img src="C:\Users\rosel\OneDrive\Desktop\airbnb1.png" alt="MY IMge"  />
-<img src="" alt="my imAGE" loading='lazy' style="" />
-<img src="" alt="my i,mage" loading='lazy' style="" />
-<img src=""alt= "my image" />
-
-
 
