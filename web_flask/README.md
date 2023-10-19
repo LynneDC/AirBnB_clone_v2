@@ -149,12 +149,12 @@
 <ul>
 <li>Your web application must be listening on <code>0.0.0.0</code>, port <code>5000</code></li>
 <li>Routes:
-</ul>
+
 <li><code>/</code>: display &ldquo;Hello HBNB!&rdquo;</li>
 <li><code>/hbnb</code>: display &ldquo;HBNB&rdquo;</li>
 <li><code>/c/&lt;text&gt;</code>: display &ldquo;C &rdquo;, followed by the value of the <code>text</code> variable (replace underscore <code>_ </code> symbols with a space <code></code>)</li>
 <li><code>/python/&lt;text&gt;</code>: display &ldquo;Python &rdquo;, followed by the value of the <code>text</code> variable (replace underscore <code>_ </code> symbols with a space <code></code>)
-<ul>
+
 <li>The default value of <code>text</code> is &ldquo;is cool&rdquo;</li>
 <li>You must use the option <code>strict_slashes=False</code> in your route definition</li>
 </ul>
