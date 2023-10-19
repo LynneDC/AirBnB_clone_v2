@@ -457,10 +457,10 @@
 <p>In the browser:</p>
 
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/4f993ec8ca2a2f639a80887667106ac63a0a3701.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T085559Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=88245362432118f074fa168f135944b1bd4ecc27f4b4fdc9d27550584cb8d594" alt="MY IMge"  />
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/1549b553d726cc37f64440be910cb6b858aa32ae.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T085559Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=809ed7726c4cc593528df6ea90938d3de03a0aea303047499fbe57dd9135b020" alt="my imAGE" loading='lazy' style="" />
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/94b3a416ba1551c59701eb6672ac0a36fbebba14.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T085559Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=484210644e55f23daf52773bd70e1fa54bd18c631fe80415eb61d826d31327d4" alt="my i,mage" loading='lazy' style="" />
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/1e559707dd34a37564dc10e54b707815a516d363.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T085559Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4d2389e10fde6395578cb1e7600bfd78a00aab2ee76cb7c457a7b73feef54dbe" alt="my image" loading='lazy' style="" />
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/396ae10c9f85a6128ae40e1b63f4bce95adf411c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T174210Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a18fbb372db051ee78cb2c85cc07984b10eb98eeb1fb5140549d3d990959d8b4" alt="MY IMge"  />
+<img src="" alt="my imAGE" loading='lazy' style="" />
+<img src="" alt="my i,mage" loading='lazy' style="" />
+<img src=""alt= "my image" />
 
 
 
