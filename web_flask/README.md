@@ -17,7 +17,7 @@
      Files 0 - 6 were introductory tasks familiarizing myself with using Flask. Files 7 forward involved gradually putting together more and more complex Jinja templates based on the HBnB HTML pages.
      The most complete Flask/Jinja app-template combo in this directory is defined in Flask module 100-hbnb.py and Jinja template 100-hbnb.html.
 
-   <b>To run the Flask app, execute the following command from the root directory of the project:</b>
+   To run the Flask app, execute the following command from the root directory of the project:
    <li><em>~ $ HBNB_MYSQL_USER=hbnb_dev HBNB_MYSQL_PWD=hbnb_dev_pwd HBNB_MYSQL_HOST=localhost HBNB_MYSQL_DB=hbnb_dev_db HBNB_TYPE_STORAGE=db python3 -m web_flask.100-hbnb</em></li>
   </ol>
    <h2> RESOURCES </h2>
@@ -37,7 +37,9 @@
    <li><a href="/rltoken/2y_hunzGCCvSot06EW67UQ" title="Jinja" target="_blank">Jinja</a> </li>
    </ul>
   </p>
- 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=F7-vdjIipfoZVexI&amp;list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   <div data-react-class="videos/PlayerLibrary" data-react-props="{&quot;canManageVideos&quot;:false,&quot;videos&quot;:[{&quot;description&quot;:&quot;\u003cp\u003eWeb framework Flask in Python with Jinja\u003c/p\u003e\n&quot;,&quot;id&quot;:39,&quot;poster&quot;:&quot;https://hbtn-vod-input-prod.s3-accelerate.amazonaws.com/ALX/da28ac39534684d31cf0b30279a1510cd9a61e081cb9305fa1c8bb7fead2e121/da28ac39534684d31cf0b30279a1510cd9a61e081cb9305fa1c8bb7fead2e121.jpg?response-content-disposition=attachment%3B\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20231019T085559Z\u0026X-Amz-Expires=14400\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=29d9c98c87885a090410c38916c46082348c1f40fe346f184b91ebdfb2dae1b7&quot;,&quot;shortDescription&quot;:&quot;Web framework Flask in Python with Jinja&quot;,&quot;source&quot;:&quot;/video_releases/39.m3u8&quot;,&quot;title&quot;:&quot;Python: Flask the web framework&quot;}]}" data-react-cache-id="videos/PlayerLibrary-0"></div>
+
    <h2 style="color: green; round-color:RED ">
         General Knowledge Test 
    </h2>
