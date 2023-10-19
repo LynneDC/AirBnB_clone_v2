@@ -457,7 +457,7 @@
 <p>In the browser:</p>
 
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/396ae10c9f85a6128ae40e1b63f4bce95adf411c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T174210Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a18fbb372db051ee78cb2c85cc07984b10eb98eeb1fb5140549d3d990959d8b4" alt="MY IMge"  />
+<img src="C:\Users\rosel\OneDrive\Desktop\airbnb1.png" alt="MY IMge"  />
 <img src="" alt="my imAGE" loading='lazy' style="" />
 <img src="" alt="my i,mage" loading='lazy' style="" />
 <img src=""alt= "my image" />
