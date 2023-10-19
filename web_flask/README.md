@@ -95,22 +95,13 @@
 <pre><code>$ pip3 install Flask
 
 <h2 class="gap">Tasks</h2>
-<span id="user_id" data-id="251885"></span>
-
-<div class="panel-heading panel-heading-actions">
 <h3 class="panel-title">
  0. Hello Flask!
 </h3>
-</div>
- <div class="panel-body">
- <span id="user_id" data-id="251885"></span>
- <!-- Task Body -->
-  <p>Write a script that starts a Flask web application:</p>
-
+<p>Write a script that starts a Flask web application:</p>
 <ul>
 <li>Your web application must be listening on <code>0.0.0.0</code>, port <code>5000</code></li>
 <li>Routes:
-
 <ul>
 <li><code>/</code>: display &ldquo;Hello HBNB!&rdquo;</li>
 </ul></li>
@@ -118,26 +109,13 @@
 </ul>
 </div>
 
-<div class="list-group">
-<!-- Task URLs -->
-
-<div class="panel-heading panel-heading-actions">
-  <h3 class="panel-title">
+<h3 class="panel-title">
      1. HBNB
- </h3>
-</div>
-
- <div class="panel-body">
- <span id="user_id" data-id="251885"></span>
-
-<!-- Progress vs Score -->
-<!-- Task Body -->
-  <p>Write a script that starts a Flask web application:</p>
-
+</h3>
+<p>Write a script that starts a Flask web application:</p>
 <ul>
 <li>Your web application must be listening on <code>0.0.0.0</code>, port <code>5000</code></li>
 <li>Routes:
-
 <ul>
 <li><code>/</code>: display &ldquo;Hello HBNB!&rdquo;</li>
 <li><code>/hbnb</code>: display &ldquo;HBNB&rdquo;</li>
@@ -145,20 +123,13 @@
 <li>You must use the option <code>strict_slashes=False</code> in your route definition</li>
 </ul>
 
-<div class="panel-heading panel-heading-actions">
-   <h3 class="panel-title">
+<h3 class="panel-title">
       2. C is fun!
-   </h3>
-
-</div>
-
-<!-- Task Body -->
+</h3>
 <p>Write a script that starts a Flask web application:</p>
-
 <ul>
 <li>Your web application must be listening on <code>0.0.0.0</code>, port <code>5000</code></li>
 <li>Routes:
-
 <ul>
 <li><code>/</code>: display &ldquo;Hello HBNB!&rdquo;</li>
 <li><code>/hbnb</code>: display &ldquo;HBNB&rdquo;</li>
@@ -166,62 +137,38 @@
 </ul></li>
 <li>You must use the option <code>strict_slashes=False</code> in your route definition</li>
 </ul>
- <div class="panel-heading panel-heading-actions">
-   <h3 class="panel-title">
-      3. Python is cool!
-   </h3>
-
-   <div>
-   <span class="label label-info">
-  </span>
-  </div>
-  </div>
-
-  <div class="panel-body">
-   <!-- Progress vs Score -->
-
-   <!-- Task Body -->
-  <p>Write a script that starts a Flask web application:</p>
-
+<h3 class="panel-title">
+   3. Python is cool!
+</h3>
+<p>Write a script that starts a Flask web application:</p>
 <ul>
 <li>Your web application must be listening on <code>0.0.0.0</code>, port <code>5000</code></li>
 <li>Routes:
-
 <ul>
 <li><code>/</code>: display &ldquo;Hello HBNB!&rdquo;</li>
 <li><code>/hbnb</code>: display &ldquo;HBNB&rdquo;</li>
 <li><code>/c/&lt;text&gt;</code>: display &ldquo;C &rdquo;, followed by the value of the <code>text</code> variable (replace underscore <code>_ </code> symbols with a space <code></code>)</li>
 <li><code>/python/&lt;text&gt;</code>: display &ldquo;Python &rdquo;, followed by the value of the <code>text</code> variable (replace underscore <code>_ </code> symbols with a space <code></code>)
-
 <ul>
 <li>The default value of <code>text</code> is &ldquo;is cool&rdquo;</li>
-</ul></li>
-</ul></li>
 <li>You must use the option <code>strict_slashes=False</code> in your route definition</li>
 </ul>
-
-  <div class="panel-heading panel-heading-actions">
-  <h3 class="panel-title">
-      4. Is it a number?
-  </h3>
-   <!-- Task Body -->
-   <p>Write a script that starts a Flask web application:</p>
-
+<h3 class="panel-title">
+    4. Is it a number?
+</h3>
+<p>Write a script that starts a Flask web application:</p>
 <ul>
 <li>Your web application must be listening on <code>0.0.0.0</code>, port <code>5000</code></li>
 <li>Routes:
-
 <ul>
 <li><code>/</code>: display &ldquo;Hello HBNB!&rdquo;</li>
 <li><code>/hbnb</code>: display &ldquo;HBNB&rdquo;</li>
 <li><code>/c/&lt;text&gt;</code>: display &ldquo;C &rdquo;, followed by the value of the <code>text</code> variable (replace underscore <code>_ </code> symbols with a space <code></code>)</li>
 <li><code>/python/(&lt;text&gt;)</code>: display &ldquo;Python &rdquo;, followed by the value of the <code>text</code> variable (replace underscore <code>_ </code> symbols with a space <code></code>)
-
 <ul>
 <li>The default value of <code>text</code> is &ldquo;is cool&rdquo;</li>
 </ul></li>
 <li><code>/number/&lt;n&gt;</code>: display &ldquo;<code>n</code> is a number&rdquo; <strong>only</strong> if <code>n</code> is an integer</li>
-</ul></li>
 <li>You must use the option <code>strict_slashes=False</code> in your route definition</li>
 </ul>
 
