@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Import Flask module from flask 
+""" Import Flask module from flask
 python script that start web application
 it listens on 0.0.0.0 to port 5000
 """
@@ -7,12 +7,11 @@ from flask import Flask
 
 app = Flask(__name__)
 
+
 @app.route('/', strict_slashes=False)
 def hello_world():
     """ Returns some string to the page """
     return 'Hello HBNB!'
-
-"""Run the script """
 
 
 if __name__ == '__main__':
