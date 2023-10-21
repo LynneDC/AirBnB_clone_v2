@@ -10,11 +10,13 @@ from models.state import state
 app = Flask(__name__)
 app.url_map.strict_slashes = False
 
+
 @app.teardown_appcontext
 def close_session(foo):
     storage.close()
 
-@app.route('/states_list', strict_slashes = False)
+
+@app.route('/states_list', strict_slashes=False)
 def states_list():
     states = list(storage.all(State).values())
     return render_template('7-states_list.html', states=states)
